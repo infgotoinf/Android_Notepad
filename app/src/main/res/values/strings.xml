@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="get_users">get users</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_profile">Профиль</string>
+    <string name="press_me">Нажми меня</string>
+    <string name="my_registration">Регистрация</string>
+    <string name="type_phone_number">Введите ваш номер телефона: </string>
+    <string name="type_password">Введите пароль: </string>
+    <string name="type_username">Введите имя пользователя: </string>
+    <string name="type_age">Введите возраст: </string>
+</resources>
